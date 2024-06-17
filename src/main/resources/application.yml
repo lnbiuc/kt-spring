@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: kt-spring
+
+  jpa:
+    database: postgresql
+    show-sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: Dd112211
